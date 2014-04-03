@@ -2,3 +2,8 @@ Nome artefato: inic_larissa.txt
 Nome do autor: Larissa Nunes
 Data de criação: 02/04/2014
 Hora de criação: 22:15
+
+Nome artefato: inic_larissa.txt
+Nome do autor da alteração: Cleber
+Data da alteração: 03/04/2014
+Hora da alteração: 00:03:30
