@@ -12,3 +12,8 @@ Nome artefato: plan_carolinne.txt
 Nome do(a) autor(a) da alteração: Larissa Nunes
 Data da alteração: 03/04/2014
 Hora da alteração: 22:49:10
+
+Nome artefato: plan_carolinne.txt
+Nome do autor da alteração: Letícia Nunes
+Data da alteração: 03/04/2014
+Hora da alteração: 22:52:50

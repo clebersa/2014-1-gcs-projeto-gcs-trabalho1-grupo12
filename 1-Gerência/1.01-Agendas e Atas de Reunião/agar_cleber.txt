@@ -17,3 +17,8 @@ Nome artefato: agar_cleber.txt
 Nome do(a) autor(a) da alteração: Carolinne
 Data da alteração: 03/04/2014 
 Hora da alteração: 23:10:55
+
+Nome artefato: agar_cleber.txt
+Nome da autora da alteração: Letícia Nunes
+Data da alteração: 03/04/2014
+Hora da alteração: 23:19:10
