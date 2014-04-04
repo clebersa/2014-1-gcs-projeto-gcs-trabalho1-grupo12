@@ -1,16 +1,13 @@
 ﻿Nome artefato: plan_cleber.txt
-
 Nome do autor: Cleber
-
 Data de criação: 01/04/2014
-
 Hora de criação: 23:33:23
-
 
 Nome artefato: plan_cleber.txt 
 Nome do(a) autor(a) da alteração: Larissa Nunes
 Data da alteração: 03/04/2014
 Hora da alteração: 22:50:57
+
 Nome artefato: plan_cleber.txt
 Nome do autor da alteração: Letícia Nunes
 Data da alteração: 03/04/2014
