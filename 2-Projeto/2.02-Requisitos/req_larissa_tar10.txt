@@ -1,4 +1,6 @@
 Nome artefato: req_larissa.txt
-Nome da autora: Larissa Nunes
-Data de criaÁ„o: 03/04/2014
-Hora de criaÁ„o: 23:29:37
+Nome da autora: Larissa A. S. Nunes
+Matr√≠cula UFG: 104861
+Data de cria√ß√£o: 03/04/2014
+Hora de cria√ß√£o: 23:29:37
+Altera√ß√£o de documento de texto conforme tarefa 15.
