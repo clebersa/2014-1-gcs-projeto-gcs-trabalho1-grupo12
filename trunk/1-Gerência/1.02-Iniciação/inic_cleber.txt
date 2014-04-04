@@ -12,3 +12,7 @@ Nome artefato: inic_cleber.txt
 Nome do(a) autor(a) da alteração: Larissa Nunes
 Data da alteração: 03/04/2014 
 Hora da alteração: 22:45:16
+Nome artefato: inic_cleber.txt
+Nome da autora da alteração: Letícia Nunes
+Data da alteração: 03/04/2014
+Hora da alteração: 22:48:50

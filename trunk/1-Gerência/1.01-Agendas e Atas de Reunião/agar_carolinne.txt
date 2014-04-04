@@ -13,3 +13,8 @@ Nome artefato: agar_carolinne.txt
 Nome do(a) autor(a) da alteração: Larissa Nunes
 Data da alteração: 03/04/2014 
 Hora da alteração: 22:44:59
+
+Nome artefato: agar_carolinne.txt
+Nome da autora da alteração: Letícia Nunes
+Data da alteração: 03/04/2014
+Hora da alteração: 23:19:30
