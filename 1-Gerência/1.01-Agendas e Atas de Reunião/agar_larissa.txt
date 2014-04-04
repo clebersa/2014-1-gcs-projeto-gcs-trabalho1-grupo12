@@ -1,7 +1,7 @@
 Nome artefato: agar_larissa.txt
 Nome do autor: Larissa Nunes
 Data de criação: 02/04/2014
-Hora de criação: 22:15
+Hora de criação: 22:15:32
 
 Nome artefato: agar_larissa.txt
 Nome do autor da alteração: Cleber

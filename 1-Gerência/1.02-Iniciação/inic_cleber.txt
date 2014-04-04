@@ -1,5 +1,14 @@
-Nome artefato: inic_cleber.txt
+﻿Nome artefato: inic_cleber.txt
+
 Nome do autor: Cleber
+
 Data de criação: 01/04/2014
+
 Hora de criação: 23:32:45
 
+
+Nome artefato: inic_cleber.txt
+
+Nome do(a) autor(a) da alteração: Larissa Nunes
+Data da alteração: 03/04/2014 
+Hora da alteração: 22:45:16
