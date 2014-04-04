@@ -1,0 +1,19 @@
+Nome artefato: agar_leticia.txt
+Nome da autora: Letícia Nunes
+Data de criação: 02/04/2014
+Hora de criação: 12:41:23
+
+Nome artefato: agar_leticia.txt
+Nome do autor da alteração: Cleber
+Data da alteração: 03/04/2014
+Hora da alteração: 00:01:17
+
+Nome artefato: agar_leticia.txt
+Nome do(a) autor(a) da alteração: Larissa Nunes
+Data da alteração: 03/04/2014 
+Hora da alteração: 22:43:42
+
+Nome artefato: agar_leticia.txt
+Nome do(a) autor(a) da alteração: Carolinne
+Data da alteração: 03/04/2014 
+Hora da alteração: 23:12:32
