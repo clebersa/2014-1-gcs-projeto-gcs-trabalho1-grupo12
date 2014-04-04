@@ -1,4 +1,6 @@
 Nome artefato: req_leticia_tar10.txt
-Nome da autora: Letícia Nunes
-Data da criação: 03/04/2014
-Hora da criação: 23:28:50
+Nome da autora: LetÃ­cia Nunes
+Data da criaÃ§Ã£o: 03/04/2014
+Hora da criaÃ§Ã£o: 23:28:50
+
+RealizaÃ§Ã£o da tarefa 15.
