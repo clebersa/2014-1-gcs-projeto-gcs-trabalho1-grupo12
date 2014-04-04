@@ -1,0 +1,6 @@
+Nome artefato: req_leticia_tar15.txt
+Nome da autora: Letícia Nunes
+Data de criação: 04/04/2014
+Hora de criação: 00:42:00
+
+documento criado no trunk
