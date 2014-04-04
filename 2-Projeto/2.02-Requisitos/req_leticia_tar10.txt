@@ -1,4 +1,10 @@
 Nome artefato: req_leticia_tar10.txt
-Nome da autora: LetÌcia Nunes
-Data da criaÁ„o: 03/04/2014
-Hora da criaÁ„o: 23:28:50
+Realizando
+Nome da autora: Let√≠cia
+a
+Data da cria√ß√£o: 03/04/2014
+tarefa
+Hora da cria√ß√£o: 23:28:50
+
+15
+Altera√ß√£o e cria√ß√£o de novos artefatos no novo ramo (ramo2) do projeto.
