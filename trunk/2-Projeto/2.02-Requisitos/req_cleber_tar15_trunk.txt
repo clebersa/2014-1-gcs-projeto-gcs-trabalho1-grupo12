@@ -1,0 +1,6 @@
+﻿Nome artefato: req_cleber_tar15_trunk.txt
+Nome do autor: Cleber
+Data de criação: 10/04/2014
+Hora de criação: 21:09:38
+
+Documento criado no trunk.

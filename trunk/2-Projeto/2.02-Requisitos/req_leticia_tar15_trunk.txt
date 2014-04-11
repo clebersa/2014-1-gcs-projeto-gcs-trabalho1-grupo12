@@ -1,4 +1,4 @@
-Nome artefato: req_leticia_tar15.txt
+Nome artefato: req_leticia_tar15_trunk.txt
 Nome da autora: Letícia Nunes
 Data de criação: 04/04/2014
 Hora de criação: 00:42:00
