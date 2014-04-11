@@ -1,4 +1,5 @@
-Nome artefato: req_larissa_tar15.txt
+Nome artefato: req_larissa_tar15_trunk.txt
 Nome do(a) autor(a): Larissa Nunes
 Data de criação: 04/04/2014 
 Hora de criação: 00:46:15
+documento criado no trunk.
