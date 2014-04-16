@@ -1,6 +1,7 @@
 Nome artefato: req_carolinne_tar10.txt
 Nome do(a) autor(a): Carolinne Machado
-Data de criação: 03/04/2014
+Nova linha entre existentes.
+Data de criação: 03/04/2014 - sexta-feira.
 Hora de criação: 23:57:30
-Novas linhas: final documento em 'trunk'
-Novas linhas 2: teste em 'trunk'
+nova linha: teste
+Nova linha 2 : teste.
