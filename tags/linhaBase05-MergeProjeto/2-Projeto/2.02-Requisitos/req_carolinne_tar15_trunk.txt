@@ -1,0 +1,5 @@
+Nome artefato: req_carolinne_tar15_trunk.txt
+Nome do(a) autor(a): Carolinne Machado
+Data de criação: 04/04/2014
+Hora de criação: 00:44:38
+documento criado no trunk.

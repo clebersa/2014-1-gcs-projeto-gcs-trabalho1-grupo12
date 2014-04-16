@@ -1,0 +1,14 @@
+Nome artefato: plan_leticia.txt
+Nome da autora: Letícia Nunes
+Data de criação: 02/04/2014
+Hora de criação: 12:43:20
+
+Nome artefato: plan_leticia.txt
+Nome do autor da alteração: Cleber
+Data da alteração: 03/04/2014
+Hora da alteração: 00:05:59
+
+Nome artefato: plan_leticia.txt 
+Nome do(a) autor(a) da alteração: Larissa Nunes
+Data da alteração: 03/04/2014
+Hora da alteração: 22:50:16
